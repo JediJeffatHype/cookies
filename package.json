@@ -1,0 +1,15 @@
+{
+"name": "@jedijeffathype/cookies",
+"version": "1.0.0",
+"description": "",
+"license": "MIT",
+"repository": "JediJeffatHype/cookies",
+"main": "index.js",
+"keywords": [
+    "cookies",
+    "npm",
+    "free",
+    "e_commerce",
+    "nodejs cmd interface"
+    ]
+}
